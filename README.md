@@ -45,3 +45,4 @@ Thanks to other individual contributors!
 * [milesfrain](https://github.com/milesfrain)
 * [bootladder](https://github.com/bootladder)
 * [eegerferenc](https://github.com/eegerferenc/hex2bin) for addition of fused config output
+* [torsj](https://github.com/torsj/hex2bin) for fixing a buffer overflow
