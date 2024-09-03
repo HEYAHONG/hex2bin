@@ -1,4 +1,6 @@
-hex2bin extracts all the bytes in a HEX file for a given range of addresses.  Those addresses are output into a binary file, suitable for programming with the Minipro TL866CS or possibly using other tools.
+![Build](https://github.com/bradgrantham/hex2bin/actions/workflows/c-cpp.yml/badge.svg)
+
+`hex2bin` extracts all the bytes in a HEX file for a given range of addresses.  Those addresses are output into a binary file, suitable for programming with the Minipro TL866CS or possibly using other tools.
 
 hexinfo prints out all the contiguous regions in a HEX file, for verification or to better understand a tool's output.  hexinfo will also print out if there are checksum errors and if the HEX file specifies an address to start execution, which I believe is set by GNU binutils' objcopy for an ELF file.
 
